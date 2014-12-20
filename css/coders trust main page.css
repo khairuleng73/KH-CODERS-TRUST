@@ -1,0 +1,19 @@
+body{}
+.wrapper{ margin:0 auto; width:780px}
+.header{}
+.maincontent{}
+.mainmenu{background-color:#000066;}
+.mainmenu ul{ display:inline-block;}
+.mainmenu ul li{ display:inline-block; text-decoration:none; }
+.mainmenu ul li a{ color:#FFFFFF; padding:15px; font-style:italic; text-decoration:none; font-size:24px}
+.maincontent{ overflow:hidden; background-image:url(../img/n/dgdfg.jpg)}
+.content{ float:left; width:450px; color: #0000CC;padding:10px; line-height:40px; font-size:18px}
+.sidbar{ float:right; width:250px; color:#FFFFFF; padding:10px;}
+h1{ color:#FF0000}
+.sidbar{ border-left-style:groove; border-left-color:#333333}
+.sidbar a{ color: #FF0000; font-size:36px; }
+.1{ border-bottom-style:groove; border-bottom-color:#333333}
+.2 a{border-bottom-style:groove; border-bottom-color:#333333}
+.3 a{border-bottom-style:groove; border-bottom-color:#333333}
+.header{ background-color:#000066}
+
